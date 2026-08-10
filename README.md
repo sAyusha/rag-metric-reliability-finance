@@ -162,16 +162,16 @@ The project uses publicly available benchmark datasets and does not process pers
 ## Citation
 
 ```bibtex
-@mastersthesis{shrestha2026ragmetrics,
+@mastersdissertation{shrestha2026ragmetrics,
   author  = {Ayusha Shrestha},
   title   = {Evaluating the Reliability of Retrieval-Augmented Generation Evaluation Metrics in Financial Question Answering},
-  school  = {Coventry University},
+  university  = {Coventry University},
   year    = {2026}
 }
 ```
 
 ## Author
 
-**Ayusha Shrestha**  
+**Ayusha Shrestha (11494885)**  
 MSc Data Science  
 Coventry University
