@@ -1,0 +1,12 @@
+# Replace these with the exact versions used in your final notebooks.
+ragas
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+datasets
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+matplotlib

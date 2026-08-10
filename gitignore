@@ -1,0 +1,15 @@
+.env
+.env.*
+*.key
+secrets.*
+credentials.*
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+*.tmp
+*.log
