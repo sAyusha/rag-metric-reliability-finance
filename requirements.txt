@@ -1,4 +1,4 @@
-# Replace these with the exact versions used in your final notebooks.
+# Replace these with the exact versions used in the final notebooks.
 ragas
 langchain
 langchain-community
