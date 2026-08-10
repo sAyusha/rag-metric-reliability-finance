@@ -1,0 +1,16 @@
+id,question,question_type,context_length,adherence_score,relevance_score,faithfulness,answer_relevancy,llm_context_precision_without_reference
+finqa_4895,what percent of the total future obligations in 2014 are from other purchase commitments?,calculation,4822,True,0.041666666666666664,0.5384615384615384,0.9999999999999684,0.9999999999666667
+finqa_1253,"what is the range between the shortest and longest length of leases for retail space , in years?",lookup,2814,True,0.058823529411764705,0.7142857142857143,0.9807225888995528,0.9999999999
+finqa_3181,in 2007 what was the percentage change in the account balance of unrecognized tax benefits based on the reconciliation at december 31 .,calculation,4284,True,0.03571428571428571,0.4,0.8986002050032239,0.9999999999666667
+finqa_2743,"with 2014 closing stock price , what is the total value of the award for the additional shares , ( in millions ) ?",lookup,9124,True,0.10810810810810811,1.0,0.7647747078399091,0.9999999999666667
+finqa_490,what was the ratio of the outstanding surety bonds for the investee and the parent for 2010 to 2009,calculation,3600,True,0.04,0.5,0.9322292922813213,0.3333333333
+finqa_3697,"what is the change in value of fixed maturities afs from 2010 to 2011 , ( in billions ) ?",calculation,2083,True,0.07692307692307693,0.8,0.9259634616496585,0.0
+finqa_4784,what was the percentage change of the net revenue in 2010,calculation,2976,True,0.07142857142857142,0.29411764705882354,0.9315656113845496,0.99999999995
+finqa_3189,what portion of the total accumulated other comprehensive losses is incurred by the currency translation adjustments in 2014?,lookup,3608,True,0.045454545454545456,0.75,0.854196647798218,0.9999999999666667
+finqa_1993,what percent did indemnified securities financing increase between 2005 and 2006?,calculation,4254,True,0.037037037037037035,0.5,0.9860007831441031,0.5833333333041666
+finqa_4566,"what is the total unfunded commitments at december 31 , 2011 including private equity investments and other investments , in millions?",lookup,5759,True,0.03333333333333333,0.625,0.8389089246155272,0.99999999995
+finqa_3515,what is the interest expense of the loan for the first quarter?,lookup,3576,True,0.16666666666666666,0.3,0.6946326714039025,0.9999999999
+finqa_1120,based on the black-scholes option pricing model what was the percent of the change in approximate risk-free interest rate from 2003 to 2004,calculation,4441,True,0.04,1.0,0.8339593713033601,0.99999999995
+finqa_3651,what percent of total revenues net of interest expense was non-interest revenue in 2008?,calculation,5957,True,0.06451612903225806,1.0,0.9964628123305022,0.5833333333041666
+finqa_3240,"without the accounting change , what would the aro balance have been ( millions ) at december 31 2003?",calculation,4224,True,0.038461538461538464,0.5,0.9637803706666096,0.9999999999666667
+finqa_966,3 net income ( loss ) $ 132.8 \\n5 income tax expense ( benefit ) 62.7,lookup,4084,True,0.06666666666666667,1.0,0.650570245491065,0.9999999999666667
